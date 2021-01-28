@@ -1,0 +1,1 @@
+Frond-end developer olmak için çıktığım bu yoldaki ikinci durağım olan CSS in dersleri ve CSS ile ilgili yaptığım projeler yer almaktadır.
